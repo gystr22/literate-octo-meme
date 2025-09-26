@@ -606,8 +606,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-26 15:35:57 +0000",
+      "minecraft:piglin": "2025-09-26 17:48:49 +0000",
       "minecraft:enderman": "2025-09-26 16:33:10 +0000",
       "minecraft:spider": "2025-09-26 15:37:07 +0000",
+      "minecraft:piglin_brute": "2025-09-26 17:48:47 +0000",
       "minecraft:zombie": "2025-09-26 15:39:03 +0000",
       "minecraft:creeper": "2025-09-26 16:51:24 +0000",
       "minecraft:husk": "2025-09-26 16:46:32 +0000"
@@ -1766,6 +1768,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-26 17:50:54 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_shrine": {
     "criteria": {
       "shrine_combat": "2025-09-26 16:45:06 +0000"
@@ -1822,7 +1830,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-09-26 17:44:27 +0000"
+      "minecraft:crimson_forest": "2025-09-26 17:44:27 +0000",
+      "minecraft:nether_wastes": "2025-09-26 17:57:51 +0000"
     },
     "done": false
   },
@@ -1835,6 +1844,12 @@
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-26 17:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-26 17:54:55 +0000"
     },
     "done": true
   },
@@ -1886,6 +1901,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-26 17:51:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-09-26 16:45:33 +0000"
@@ -1895,6 +1916,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-09-26 17:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-09-26 17:54:55 +0000"
     },
     "done": true
   },
@@ -1925,6 +1952,12 @@
   "minecraft:recipes/food/suspicious_stew_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2025-09-26 17:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-26 17:54:55 +0000"
     },
     "done": true
   },
@@ -2012,6 +2045,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-09-26 17:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-09-26 17:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-09-26 17:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-09-26 16:45:33 +0000"
@@ -2051,6 +2102,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-09-26 16:48:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-26 17:51:53 +0000"
     },
     "done": true
   },
@@ -2108,9 +2165,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-09-26 17:55:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-09-26 16:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-26 17:51:53 +0000"
     },
     "done": true
   },

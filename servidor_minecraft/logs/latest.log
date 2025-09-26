@@ -272,3 +272,22 @@
 [17:37:37] [Server thread/INFO]: [voicechat] Disconnecting client Kalasny
 [17:44:22] [Server thread/INFO]: Gustrap has made the advancement [We Need to Go Deeper]
 [17:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
+[17:50:54] [Server thread/INFO]: Gustrap has made the advancement [Who is Cutting Onions?]
+[17:51:53] [Server thread/INFO]: Gustrap has made the advancement [Into Fire]
+[17:53:43] [Server thread/INFO]: Kalasny[/127.109.232.88:55675] logged in with entity id 38765 at (-589.6999999880791, 88.0, 338.30000001192093)
+[17:53:43] [Server thread/INFO]: Kalasny joined the game
+[17:53:44] [Server thread/INFO]: [voicechat] Received secret request of Kalasny (18)
+[17:53:44] [Server thread/INFO]: [voicechat] Sent secret to Kalasny
+[17:53:51] [Server thread/INFO]: Kalasny lost connection: Disconnected
+[17:53:51] [Server thread/INFO]: Kalasny left the game
+[17:53:51] [Server thread/INFO]: [voicechat] Disconnecting client Kalasny
+[17:54:55] [Server thread/INFO]: Gustrap has made the advancement [Hidden in the Depths]
+[17:55:23] [Server thread/INFO]: Kalasny[/127.109.232.88:48301] logged in with entity id 39182 at (-589.6999999880791, 88.0, 338.30000001192093)
+[17:55:23] [Server thread/INFO]: Kalasny joined the game
+[17:55:24] [Server thread/INFO]: [voicechat] Received secret request of Kalasny (18)
+[17:55:24] [Server thread/INFO]: [voicechat] Sent secret to Kalasny
+[17:55:29] [Server thread/INFO]: Gustrap has made the advancement [Spooky Scary Skeleton]
+[17:56:19] [Server thread/INFO]: Kalasny has made the advancement [We Need to Go Deeper]
+[17:56:46] [Server thread/INFO]: [Not Secure] <Kalasny> 87 83 38
+[17:56:58] [Server thread/INFO]: [Not Secure] <Kalasny> -87 83 38
+[17:58:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-87, y=67, z=8} class_2338{x=-87, y=66, z=9}
