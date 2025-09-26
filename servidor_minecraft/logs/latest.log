@@ -270,3 +270,5 @@
 [17:37:37] [Server thread/INFO]: Kalasny lost connection: Disconnected
 [17:37:37] [Server thread/INFO]: Kalasny left the game
 [17:37:37] [Server thread/INFO]: [voicechat] Disconnecting client Kalasny
+[17:44:22] [Server thread/INFO]: Gustrap has made the advancement [We Need to Go Deeper]
+[17:44:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8427ms or 168 ticks behind
