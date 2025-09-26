@@ -291,3 +291,15 @@
 [17:56:46] [Server thread/INFO]: [Not Secure] <Kalasny> 87 83 38
 [17:56:58] [Server thread/INFO]: [Not Secure] <Kalasny> -87 83 38
 [17:58:10] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-87, y=67, z=8} class_2338{x=-87, y=66, z=9}
+[18:00:57] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=-79, y=38, z=-18} class_2338{x=-79, y=37, z=-18}
+[18:15:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3469ms or 69 ticks behind
+[18:15:46] [Server thread/INFO]: Gustrap has made the advancement [Ol' Betsy]
+[18:25:24] [Server thread/INFO]: YisuSnakexx[/127.111.14.171:46673] logged in with entity id 48990 at (-1.5, 113.0, -8.5)
+[18:25:24] [Server thread/INFO]: YisuSnakexx joined the game
+[18:25:24] [Server thread/INFO]: [voicechat] Received secret request of YisuSnakexx (18)
+[18:25:24] [Server thread/INFO]: [voicechat] Sent secret to YisuSnakexx
+[18:31:22] [Server thread/INFO]: YisuSnakexx has made the advancement [Monster Hunter]
+[18:32:14] [Server thread/INFO]: YisuSnakexx froze to death
+[18:33:03] [Server thread/INFO]: Teleported YisuSnakexx to Kalasny
+[18:34:35] [Server thread/INFO]: YisuSnakexx has made the advancement [Safe Haven]
+[18:34:48] [Server thread/INFO]: YisuSnakexx has made the advancement [Sweet Dreams]
