@@ -195,3 +195,28 @@
 [15:28:15] [Server thread/INFO]: Gustrap joined the game
 [15:28:15] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
 [15:28:15] [Server thread/INFO]: [voicechat] Sent secret to Gustrap
+[15:30:02] [Worker-Main-5/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[15:30:02] [Server thread/INFO]: Gustrap lost connection: Disconnected
+[15:30:02] [Server thread/INFO]: Gustrap left the game
+[15:30:02] [Server thread/INFO]: [voicechat] Disconnecting client Gustrap
+[15:30:18] [Server thread/INFO]: Gustrap[/127.200.208.172:47829] logged in with entity id 808 at (-10.883309448150507, 103.0, -0.48778701357424903)
+[15:30:18] [Server thread/INFO]: Gustrap joined the game
+[15:30:18] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
+[15:30:18] [Server thread/INFO]: [voicechat] Sent secret to Gustrap
+[15:31:08] [Server thread/INFO]: Gustrap has made the advancement [Stone Age]
+[15:31:34] [Server thread/INFO]: Gustrap has made the advancement [Getting an Upgrade]
+[15:34:31] [Server thread/INFO]: Kalasny[/127.109.232.88:49285] logged in with entity id 1664 at (0.5, 105.0, -2.5)
+[15:34:31] [Server thread/INFO]: Kalasny joined the game
+[15:34:31] [Server thread/INFO]: [voicechat] Received secret request of Kalasny (18)
+[15:34:31] [Server thread/INFO]: [voicechat] Sent secret to Kalasny
+[15:35:21] [Server thread/INFO]: [Not Secure] <Kalasny> hola
+[15:35:57] [Server thread/INFO]: Gustrap has made the advancement [Monster Hunter]
+[15:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2122ms or 42 ticks behind
+[15:36:33] [Server thread/INFO]: Kalasny has made the advancement [Stone Age]
+[15:36:44] [Server thread/INFO]: [Not Secure] <Kalasny> tenias q meter mod de mapa
+[15:36:46] [Server thread/INFO]: [Not Secure] <Kalasny> mmgv
+[15:36:52] [Server thread/INFO]: Kalasny has made the advancement [Getting an Upgrade]
+[15:36:53] [Server thread/INFO]: [Not Secure] <Gustrap> no
+[15:36:57] [Server thread/INFO]: [Not Secure] <Gustrap> cosas vanilla
+[15:37:22] [Server thread/INFO]: Gustrap has made the advancement [Acquire Hardware]
+[15:38:42] [Server thread/INFO]: [Not Secure] <Kalasny> no hay luz dinamica
