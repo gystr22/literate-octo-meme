@@ -1,8 +1,8 @@
-[03:42:32] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
-[03:42:33] [main/WARN]: Warnings were found!
+[15:18:39] [main/INFO]: Loading Minecraft 1.21.5 with Fabric Loader 0.16.14
+[15:18:39] [main/WARN]: Warnings were found!
  - Mod 'Forge Config API Port' (forgeconfigapiport) 21.5.1 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[03:42:33] [main/INFO]: Loading 84 mods:
+[15:18:39] [main/INFO]: Loading 84 mods:
 	- appleskin 3.0.6+mc1.21.5
 	   \-- cloth-config 18.0.145
 	        \-- cloth-basic-math 0.6.1
@@ -99,75 +99,99 @@
 	   |-- fabric-key-binding-api-v1 1.0.63+ecf51cdc07
 	   \-- fabric-rendering-v1 11.1.11+081cc04307
 	- waystones 21.5.8
-[03:42:33] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/literate-octo-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:42:33] [main/INFO]: Compatibility level set to JAVA_21
-[03:42:33] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:42:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:42:41] [main/INFO]: [STDOUT]: Running Fabric.
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
-[03:42:41] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
-[03:42:41] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
-[03:42:41] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
-[03:42:41] [main/INFO]: [voicechat] Compatibility version 18
-[03:42:42] [main/INFO]: [voicechat] Loading plugins
-[03:42:42] [main/INFO]: [voicechat] Loaded 0 plugin(s)
-[03:42:42] [main/INFO]: [voicechat] Initializing plugins
-[03:42:42] [main/INFO]: [voicechat] Initialized 0 plugin(s)
-[03:42:42] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[03:42:44] [Worker-Main-1/ERROR]: Couldn't parse data file 'storagedrawers:personal_key_cofh' from 'storagedrawers:recipe/personal_key_cofh.json': DataResult.Error['Failed to parse either. First: Not a JSON object: "#cofh_core:crafting/locks"; Second: Missing tag: 'cofh_core:crafting/locks' in 'minecraft:item'': net.minecraft.class_1867@1080c517]
-[03:42:45] [main/INFO]: Loaded 1610 recipes
-[03:42:45] [main/INFO]: Loaded 1707 advancements
-[03:42:45] [main/WARN]: Recipe comforts:shapeless_rope_and_nail can't be placed due to empty ingredients and will be ignored
-[03:42:45] [main/INFO]: Applied 95 biome modifications to 64 of 65 new biomes in 17.90 ms
-[03:42:45] [Server thread/INFO]: Config 'explorations.json' was successfully loaded.
-[03:42:45] [Server thread/INFO]: Added statues to vanilla villages
-[03:42:45] [Server thread/INFO]: Starting minecraft server version 1.21.5
-[03:42:45] [Server thread/INFO]: Loading properties
-[03:42:45] [Server thread/INFO]: Default game type: SURVIVAL
-[03:42:45] [Server thread/INFO]: Generating keypair
-[03:42:45] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:42:45] [Server thread/INFO]: Using epoll channel type
-[03:42:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:42:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:42:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:42:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:42:45] [Server thread/INFO]: Preparing level "world"
-[03:42:46] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:42:53] [Server thread/INFO]: Time elapsed: 7349 ms
-[03:42:53] [Server thread/INFO]: Done (7.820s)! For help, type "help"
-[03:42:53] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[03:42:53] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'higher-glance.gl.at.ply.gg:2467'
-[03:42:53] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2467
-[03:43:01] [Server thread/INFO]: Gustrap[/127.246.47.94:46199] logged in with entity id 89 at (-3.411178580015055, 96.0, 10.166996486086552)
-[03:43:01] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
-[03:43:01] [Server thread/INFO]: Gustrap joined the game
-[03:43:02] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
-[03:43:02] [Server thread/INFO]: [voicechat] Sent secret to Gustrap
-[03:43:02] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player d89722eb-6255-3fc6-832a-dc3bb9d41252
-[03:43:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player d89722eb-6255-3fc6-832a-dc3bb9d41252
-[03:43:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gustrap (d89722eb-6255-3fc6-832a-dc3bb9d41252) successfully connected to voice chat
-[03:45:00] [Worker-Main-1/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
-[03:45:30] [Server thread/INFO]: Gustrap lost connection: Disconnected
-[03:45:30] [Server thread/INFO]: Gustrap left the game
-[03:45:30] [Server thread/INFO]: [voicechat] Disconnecting client Gustrap
-[03:46:30] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:18:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/literate-octo-meme/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[15:18:40] [main/INFO]: Compatibility level set to JAVA_21
+[15:18:40] [main/WARN]: Reference map 'forgeconfigapiport.common.refmap.json' for forgeconfigapiport.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15:18:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[15:18:55] [main/INFO]: [STDOUT]: Running Fabric.
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:snowball = 1 minecraft:snow_block
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:glowstone_dust = 1 minecraft:glowstone
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:brick = 1 minecraft:bricks
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:nether_brick = 1 minecraft:nether_bricks
+[15:18:55] [main/INFO]: New compacting rule 9 minecraft:nether_wart = 1 minecraft:nether_wart_block
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:quartz = 1 minecraft:quartz_block
+[15:18:55] [main/INFO]: New compacting rule 9 minecraft:melon_slice = 1 minecraft:melon
+[15:18:55] [main/INFO]: New compacting rule 4 minecraft:clay_ball = 1 minecraft:clay
+[15:18:55] [main/INFO]: [voicechat] Compatibility version 18
+[15:18:55] [main/INFO]: [voicechat] Loading plugins
+[15:18:55] [main/INFO]: [voicechat] Loaded 0 plugin(s)
+[15:18:55] [main/INFO]: [voicechat] Initializing plugins
+[15:18:55] [main/INFO]: [voicechat] Initialized 0 plugin(s)
+[15:18:56] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:19:01] [Worker-Main-1/ERROR]: Couldn't parse data file 'storagedrawers:personal_key_cofh' from 'storagedrawers:recipe/personal_key_cofh.json': DataResult.Error['Failed to parse either. First: Not a JSON object: "#cofh_core:crafting/locks"; Second: Missing tag: 'cofh_core:crafting/locks' in 'minecraft:item'': net.minecraft.class_1867@1293faa9]
+[15:19:02] [main/INFO]: Loaded 1610 recipes
+[15:19:02] [main/INFO]: Loaded 1707 advancements
+[15:19:02] [main/WARN]: Recipe comforts:shapeless_rope_and_nail can't be placed due to empty ingredients and will be ignored
+[15:19:02] [main/INFO]: Applied 95 biome modifications to 64 of 65 new biomes in 29.25 ms
+[15:19:02] [Server thread/INFO]: Config 'explorations.json' was successfully loaded.
+[15:19:02] [Server thread/INFO]: Added statues to vanilla villages
+[15:19:02] [Server thread/INFO]: Starting minecraft server version 1.21.5
+[15:19:02] [Server thread/INFO]: Loading properties
+[15:19:02] [Server thread/INFO]: Default game type: SURVIVAL
+[15:19:02] [Server thread/INFO]: Generating keypair
+[15:19:03] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:19:03] [Server thread/INFO]: Using epoll channel type
+[15:19:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[15:19:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[15:19:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[15:19:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[15:19:03] [Server thread/INFO]: Preparing level "world"
+[15:19:04] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[15:19:23] [Server thread/INFO]: Time elapsed: 19331 ms
+[15:19:23] [Server thread/INFO]: Done (20.009s)! For help, type "help"
+[15:19:23] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[15:19:23] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'higher-glance.gl.at.ply.gg:2467'
+[15:19:23] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2467
+[15:20:07] [Server thread/INFO]: Gustrap[/127.200.208.172:56555] logged in with entity id 61 at (-0.14708887699303744, 96.0, 11.424144569279727)
+[15:20:07] [Server thread/INFO]: [voicechat] Using Fabric Permissions API
+[15:20:07] [Server thread/INFO]: Gustrap joined the game
+[15:20:08] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
+[15:20:08] [Server thread/INFO]: [voicechat] Sent secret to Gustrap
+[15:20:29] [Server thread/INFO]: Gustrap lost connection: Disconnected
+[15:20:29] [Server thread/INFO]: Gustrap left the game
+[15:20:29] [Server thread/INFO]: [voicechat] Disconnecting client Gustrap
+[15:21:29] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[15:28:15] [Server thread/INFO]: Gustrap[/127.200.208.172:37573] logged in with entity id 289 at (2.3862116788457484, 96.0, 13.51353878273224)
+[15:28:15] [Server thread/INFO]: Gustrap joined the game
+[15:28:15] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
+[15:28:15] [Server thread/INFO]: [voicechat] Sent secret to Gustrap

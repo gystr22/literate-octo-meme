@@ -11,12 +11,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/one_stack_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
@@ -41,21 +35,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/diamond_storage_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_fence": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
     },
     "done": true
   },
@@ -77,12 +59,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/birch_trim": {
     "criteria": {
       "has_planks": "2025-07-22 03:43:28 +0000"
@@ -92,12 +68,6 @@
   "storagedrawers:recipes/storagedrawers/void_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
     },
     "done": true
   },
@@ -119,12 +89,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 03:43:39 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2025-07-22 03:43:28 +0000"
@@ -140,12 +104,6 @@
   "storagedrawers:recipes/storagedrawers/pale_oak_trim": {
     "criteria": {
       "has_planks": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-22 03:45:05 +0000"
     },
     "done": true
   },
@@ -170,12 +128,6 @@
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
     },
     "done": true
   },
@@ -206,12 +158,6 @@
   "storagedrawers:recipes/storagedrawers/personal_key_cofh": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
     },
     "done": true
   },
@@ -257,12 +203,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/priority_key": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
@@ -287,12 +227,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-07-22 03:43:39 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/portability_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
@@ -302,12 +236,6 @@
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-07-22 03:43:39 +0000"
     },
     "done": true
   },
@@ -341,12 +269,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/emerald_storage_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
@@ -362,12 +284,6 @@
   "storagedrawers:recipes/storagedrawers/cherry_trim": {
     "criteria": {
       "has_planks": "2025-07-22 03:43:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/suspicious_stew_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-07-22 03:45:05 +0000"
     },
     "done": true
   },
@@ -395,18 +311,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-07-22 03:44:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
@@ -428,6 +332,102 @@
   "storagedrawers:recipes/storagedrawers/gold_storage_upgrade": {
     "criteria": {
       "has_template": "2025-07-22 03:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-07-22 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-07-22 03:43:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-22 03:44:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-22 03:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/suspicious_stew_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-22 03:45:05 +0000"
     },
     "done": true
   },

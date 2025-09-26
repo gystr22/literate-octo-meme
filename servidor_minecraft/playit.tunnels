@@ -1,42 +1,42 @@
 {
   "tcp_alloc": {
-    "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "allowed": 4,
+    "claimed": 2,
+    "desired": 2
   },
   "tunnels": [
     {
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "steel-regulated.gl.joinmc.link",
-          "assigned_srv": "steel-regulated.gl.joinmc.link",
+          "assigned_domain": "cancer-relatively.gl.joinmc.link",
+          "assigned_srv": "cancer-relatively.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "e0061d6a-a114-4257-86e3-fc62e1742acd",
-          "ip_hostname": "30.ip.gl.ply.gg",
+          "id": "57dc3398-d0bc-423d-b833-a0f625dd7a9e",
+          "ip_hostname": "211.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 27552,
-          "port_start": 27551,
+          "port_end": 20476,
+          "port_start": 20475,
           "region": "global",
-          "static_ip4": "147.185.221.30",
-          "static_ip6": "2602:fbaf:0:1::1e",
-          "tunnel_ip": "2602:fbaf:0:1::1e"
+          "static_ip4": "147.185.221.211",
+          "static_ip6": "2602:fbaf:0:1::d3",
+          "tunnel_ip": "147.185.221.211"
         },
         "status": "allocated"
       },
-      "created_at": "2025-07-22T01:30:10.167169Z",
+      "created_at": "2025-09-26T15:13:01.453140Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "2879996a-2916-49f5-9916-3d5c737a176d",
+      "id": "c665ab0c-525d-444b-8ecd-9bbd07e5c789",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "e8a3f0be-9a62-4b22-9d51-6f4d3cc7eeb1",
-          "agent_name": "from-key-d824",
+          "agent_id": "deb06571-874e-4b25-8b01-06026515afdd",
+          "agent_name": "from-key-786f",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -54,8 +54,8 @@
     }
   ],
   "udp_alloc": {
-    "allowed": 6,
-    "claimed": 0,
-    "desired": 0
+    "allowed": 4,
+    "claimed": 1,
+    "desired": 1
   }
 }
