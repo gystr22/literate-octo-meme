@@ -245,3 +245,15 @@
 [16:20:40] [Server thread/INFO]: Kalasny has made the advancement [Hot Stuff]
 [16:24:13] [Server thread/INFO]: Kalasny burned to death
 [16:27:25] [Server thread/INFO]: Teleported Kalasny to -23.500000, 25.000000, 183.500000
+[16:32:44] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[16:33:26] [Server thread/WARN]: Gustrap moved wrongly!
+[16:34:06] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=216, y=47, z=211}
+[16:36:29] [Worker-Main-6/ERROR]: Block-attached entity at invalid position: class_2338{x=203, y=48, z=159}
+[16:36:41] [Server thread/INFO]: Kalasny has made the advancement [Sweet Dreams]
+[16:37:03] [Server thread/INFO]: Gustrap lost connection: Disconnected
+[16:37:03] [Server thread/INFO]: Gustrap left the game
+[16:37:03] [Server thread/INFO]: [voicechat] Disconnecting client Gustrap
+[16:37:13] [Server thread/INFO]: Gustrap[/127.200.208.172:41177] logged in with entity id 20422 at (-71.39570558059005, 133.1212968405392, 172.71808124587776)
+[16:37:13] [Server thread/INFO]: Gustrap joined the game
+[16:37:14] [Server thread/INFO]: [voicechat] Received secret request of Gustrap (18)
+[16:37:14] [Server thread/INFO]: [voicechat] Sent secret to Gustrap
